@@ -1,0 +1,28 @@
+{
+  "name": "webmonitor",
+  "version": "0.0.1",
+  "description": "A tool for monitoring the up time of websites.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "monitor",
+    "uptime",
+    "website",
+    "response time"
+  ],
+  "engines": {
+    "node": ">=0.10.x",
+    "npm": ">=1.3.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nachimuthumani/webmonitor.git"
+  },
+  "author": "Mani Nachimuthu MyCura Techonologies | mycura.com | mani@mycura.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  }
+}
